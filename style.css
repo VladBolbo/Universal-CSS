@@ -1,12 +1,7 @@
-/*!
- * Project_Name: Themezy Movie Review
- * Author: Themezy
- * Email: info@themezy.com
- * URL: http://themezy.com
- */
-/*=========================================== 
- * Importing CSS Libraries
- *===========================================*/
+/*
+ * Project_Name: Movies Site
+*/
+
 article,
 aside,
 details,
@@ -19,6 +14,7 @@ nav,
 section,
 summary {
   display: block; }
+
 
 audio,
 canvas,
